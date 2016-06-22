@@ -1,0 +1,1 @@
+cmd_/home/virtual/Documents/ORielly-Module-Programming/scullbuffer/scull.o := ld -m elf_x86_64   -r -o /home/virtual/Documents/ORielly-Module-Programming/scullbuffer/scull.o /home/virtual/Documents/ORielly-Module-Programming/scullbuffer/main.o /home/virtual/Documents/ORielly-Module-Programming/scullbuffer/pipe.o 
